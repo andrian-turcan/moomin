@@ -1,0 +1,3 @@
+# Project exclude paths
+/account-service/target/
+/transaction-service/target/
